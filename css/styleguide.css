@@ -3,37 +3,45 @@
   --regent-gray: #8899a6;
   --white: #ffffff;
 
-  --font-size-l: 20px;
-  --font-size-m: 17px;
-  --font-size-xl: 21px;
-  --font-size-xxl: 22px;
-  --font-size-xxxl: 25px;
-  --font-size-xxxxl: 49px;
+  --font-size-l: 27px;
+  --font-size-m: 25px;
+  --font-size-s: 21px;
+  --font-size-xl: 30px;
+  --font-size-xs: 20px;
+  --font-size-xxl: 49px;
+  --font-size-xxs: 17px;
 
   --font-family-roboto: "Roboto", Helvetica;
 }
 .roboto-normal-white-17px {
   color: var(--white);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-m);
+  font-size: var(--font-size-xxs);
   font-style: normal;
   font-weight: 400;
 }
 .roboto-normal-white-20px {
   color: var(--white);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-xs);
   font-style: normal;
   font-weight: 400;
 }
 .roboto-normal-white-25px {
   color: var(--white);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xxxl);
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
 }
-.roboto-normal-regent-gray-20px {
+.roboto-normal-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-normal-regent-gray-27px {
   color: var(--regent-gray);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-l);
@@ -43,59 +51,3 @@
 .border-1px-dove-gray {
   border: 1px solid var(--dove-gray);
 }
-
-
-@-moz-keyframes blink {
-  0% {
-    opacity:1;
-  }
-  50% {
-    opacity:0;
-  }
-  100% {
-    opacity:1;
-  }
-}
-
-@-webkit-keyframes blink {
-  0% {
-    opacity:1;
-  }
-  50% {
-    opacity:0;
-  }
-  100% {
-    opacity:1;
-  }
-}
-/* IE */
-@-ms-keyframes blink {
-  0% {
-    opacity:1;
-  }
-  50% {
-    opacity:0;
-  }
-  100% {
-    opacity:1;
-  }
-}
-/* Opera and prob css3 final iteration */
-@keyframes blink {
-  0% {
-    opacity:1;
-  }
-  50% {
-    opacity:0;
-  }
-  100% {
-    opacity:1;
-  }
-}
-.blink-image {
-  -moz-animation: blink normal 1s infinite ease-in-out; /* Firefox */
-  -webkit-animation: blink normal 1s infinite ease-in-out; /* Webkit */
-  -ms-animation: blink normal 1s infinite ease-in-out; /* IE */
-  animation: blink normal 1s infinite ease-in-out; /* Opera and prob css3 final iteration */
-}
-

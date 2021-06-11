@@ -1,19 +1,13 @@
 /* screen - web-1920-1 */
-.animate-enter {
-  animation: animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
-  display: block;
-opacity: 0;
-}
+
 .web-1920-1 {
   background-color: var(--white);
   cursor: pointer;
-  display: block;
   height: 3088px;
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
   width: 1920px;
-opacity: 0;
 }
 .web-1920-1 .a-software-engi-sony-imageworks-VyzZeT {
   background-color: transparent;
@@ -31,10 +25,10 @@ opacity: 0;
   height: auto;
   left: 494px;
   letter-spacing: 0.00px;
-  line-height: 40px;
+  line-height: 25px;
   position: absolute;
   text-align: left;
-  top: 1948px;
+  top: 1978px;
   white-space: nowrap;
   width: auto;
 }
@@ -116,7 +110,7 @@ opacity: 0;
   background-color: transparent;
   color: var(--white);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 400;
   height: auto;
@@ -132,12 +126,12 @@ opacity: 0;
 .web-1920-1 .developed-a-sys-similar-conten-C61RwL {
   background-color: transparent;
   height: auto;
-  left: 499px;
+  left: 500px;
   letter-spacing: 0.00px;
-  line-height: 40px;
+  line-height: 25px;
   position: absolute;
   text-align: left;
-  top: 2674px;
+  top: 2698px;
   white-space: nowrap;
   width: auto;
 }
@@ -146,22 +140,22 @@ opacity: 0;
   height: auto;
   left: 494px;
   letter-spacing: 0.00px;
-  line-height: 20px;
+  line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 1474px;
+  top: 1464px;
   white-space: nowrap;
   width: auto;
 }
 .web-1920-1 .distributed-con-s-visualisation-VMr6Om {
   background-color: transparent;
   height: auto;
-  left: 499px;
+  left: 504px;
   letter-spacing: 0.00px;
-  line-height: 20px;
+  line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 2233px;
+  top: 2232px;
   white-space: nowrap;
   width: auto;
 }
@@ -275,10 +269,10 @@ opacity: 0;
   height: auto;
   left: 494px;
   letter-spacing: 0.00px;
-  line-height: 20px;
+  line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 1892px;
+  top: 1902px;
   white-space: nowrap;
   width: auto;
 }
@@ -300,7 +294,6 @@ opacity: 0;
 }
 .web-1920-1 .group-4-C61RwL {
   background-color: transparent;
-  cursor: pointer;
   height: 26px;
   left: 1144px;
   position: absolute;
@@ -319,7 +312,7 @@ opacity: 0;
   background-color: transparent;
   color: var(--white);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xxxxl);
+  font-size: var(--font-size-xxl);
   font-style: normal;
   font-weight: 400;
   height: auto;
@@ -337,10 +330,10 @@ opacity: 0;
   height: auto;
   left: 515px;
   letter-spacing: 0.00px;
-  line-height: 30px;
+  line-height: 20px;
   position: absolute;
   text-align: center;
-  top: 460px;
+  top: 471px;
   white-space: nowrap;
   width: auto;
 }
@@ -388,12 +381,12 @@ opacity: 0;
 .web-1920-1 .increased-air-q-ther-conditions-C61RwL {
   background-color: transparent;
   height: auto;
-  left: 499px;
+  left: 504px;
   letter-spacing: 0.00px;
-  line-height: 40px;
+  line-height: 25px;
   position: absolute;
   text-align: left;
-  top: 2298px;
+  top: 2319px;
   white-space: nowrap;
   width: auto;
 }
@@ -572,16 +565,16 @@ opacity: 0;
   background-color: transparent;
   color: var(--white);
   font-family: var(--font-family-roboto);
-  font-size: var(--font-size-xxl);
+  font-size: 35px;
   font-style: normal;
   font-weight: 400;
   height: auto;
   left: 494px;
   letter-spacing: 0.00px;
-  line-height: 22px;
+  line-height: 35px;
   position: absolute;
   text-align: left;
-  top: 1384px;
+  top: 1370px;
   white-space: nowrap;
   width: auto;
 }
@@ -614,10 +607,10 @@ opacity: 0;
   height: auto;
   left: 494px;
   letter-spacing: 0.00px;
-  line-height: 20px;
+  line-height: 27px;
   position: absolute;
   text-align: left;
-  top: 1783px;
+  top: 1763px;
   white-space: nowrap;
   width: auto;
 }
@@ -627,10 +620,10 @@ opacity: 0;
   height: auto;
   left: 494px;
   letter-spacing: 0.00px;
-  line-height: 20px;
+  line-height: 27px;
   position: absolute;
   text-align: left;
-  top: 2867px;
+  top: 2860px;
   white-space: nowrap;
   width: auto;
 }
@@ -640,10 +633,10 @@ opacity: 0;
   height: auto;
   left: 494px;
   letter-spacing: 0.00px;
-  line-height: 20px;
+  line-height: 27px;
   position: absolute;
   text-align: left;
-  top: 2100px;
+  top: 2093px;
   white-space: nowrap;
   width: auto;
 }
@@ -653,10 +646,10 @@ opacity: 0;
   height: auto;
   left: 499px;
   letter-spacing: 0.00px;
-  line-height: 20px;
+  line-height: 27px;
   position: absolute;
   text-align: left;
-  top: 2458px;
+  top: 2451px;
   white-space: nowrap;
   width: auto;
 }
@@ -711,12 +704,12 @@ opacity: 0;
 .web-1920-1 .think-we-would-k-well-together-C61RwL {
   background-color: transparent;
   height: auto;
-  left: 741px;
+  left: 701px;
   letter-spacing: 0.00px;
-  line-height: 25px;
+  line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 1124px;
+  top: 1122px;
   white-space: nowrap;
   width: auto;
 }
@@ -725,10 +718,10 @@ opacity: 0;
   height: auto;
   left: 494px;
   letter-spacing: 0.00px;
-  line-height: 40px;
+  line-height: 25px;
   position: absolute;
   text-align: left;
-  top: 1530px;
+  top: 1569px;
   white-space: nowrap;
   width: auto;
 }
@@ -737,10 +730,10 @@ opacity: 0;
   height: auto;
   left: 500px;
   letter-spacing: 0.00px;
-  line-height: 20px;
+  line-height: 30px;
   position: absolute;
   text-align: left;
-  top: 2617px;
+  top: 2607px;
   white-space: nowrap;
   width: auto;
 }
@@ -767,9 +760,3 @@ opacity: 0;
   white-space: nowrap;
   width: auto;
 }
-@keyframes animate-enter-frames {
-
-from{opacity: 0;}
-to{opacity: 1;}
-}
-
