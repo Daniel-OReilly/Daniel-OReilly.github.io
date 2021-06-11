@@ -1,0 +1,775 @@
+/* screen - web-1920-1 */
+.animate-enter {
+  animation: animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;
+}
+.web-1920-1 {
+  background-color: var(--white);
+  cursor: pointer;
+  display: block;
+  height: 3088px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+opacity: 0;
+}
+.web-1920-1 .a-software-engi-sony-imageworks-VyzZeT {
+  background-color: transparent;
+  height: 28px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 447px;
+}
+.web-1920-1 .achieved-997-ac-orthern-british-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 494px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 1948px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .collecting-viny-ds-of-all-kinds-iZjIT4 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 25px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  width: 262px;
+}
+.web-1920-1 .contact-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1319px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .copyright-2021-nd-in-vancouver-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 650px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3016px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .currently-im-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 511px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 574px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .cv-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1255px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 23px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .cv-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 797px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1199px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .daniel-o-reilly-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 490px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .developed-a-sys-similar-conten-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 499px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 2674px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .distributed-con-s-visualisation-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 494px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1474px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .distributed-con-s-visualisation-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 499px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 2233px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .ellipse-1-VyzZeT {
+  background-color: var(--white);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+.web-1920-1 .ellipse-10-iZjIT4 {
+  background-color: var(--white);
+  border-radius: 2.5px;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: 9px;
+  width: 5px;
+}
+.web-1920-1 .ellipse-11-iZjIT4 {
+  background-color: var(--white);
+  border-radius: 2.5px;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 2px);
+  width: 5px;
+}
+.web-1920-1 .ellipse-12-iZjIT4 {
+  background-color: var(--white);
+  border-radius: 2.5px;
+  bottom: 9px;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  width: 5px;
+}
+.web-1920-1 .ellipse-2-VyzZeT {
+  background-color: var(--white);
+  border-radius: 3px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: calc(48.78% - 3px);
+  width: 6px;
+}
+.web-1920-1 .ellipse-3-VyzZeT {
+  background-color: var(--white);
+  border-radius: 3px;
+  bottom: 11px;
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  width: 6px;
+}
+.web-1920-1 .ellipse-4-zUixHA {
+  background-color: var(--white);
+  border-radius: 2.5px;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: 4px;
+  width: 5px;
+}
+.web-1920-1 .ellipse-5-zUixHA {
+  background-color: var(--white);
+  border-radius: 2.5px;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  top: calc(42.86% - 2px);
+  width: 5px;
+}
+.web-1920-1 .ellipse-6-zUixHA {
+  background-color: var(--white);
+  border-radius: 2.5px;
+  bottom: calc(20.00% - 1px);
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  width: 5px;
+}
+.web-1920-1 .email-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1028px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1199px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .exploring-north-ritish-columbia-iZjIT4 {
+  background-color: transparent;
+  bottom: calc(48.00% - 12px);
+  height: 25px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  width: 272px;
+}
+.web-1920-1 .fake-news-detection-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 494px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1892px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .group-1-C61RwL {
+  background-color: transparent;
+  height: 88px;
+  left: 515px;
+  position: absolute;
+  top: 612px;
+  width: 787px;
+}
+.web-1920-1 .group-2-C61RwL {
+  background-color: transparent;
+  height: 75px;
+  left: 515px;
+  position: absolute;
+  top: 760px;
+  width: 592px;
+}
+.web-1920-1 .group-4-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 26px;
+  left: 1144px;
+  position: absolute;
+  top: 24px;
+  width: 75px;
+}
+.web-1920-1 .group-5-C61RwL {
+  background-color: transparent;
+  height: 75px;
+  left: 511px;
+  position: absolute;
+  top: 895px;
+  width: 428px;
+}
+.web-1920-1 .hi-im-dan-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 838px;
+  letter-spacing: 0.00px;
+  line-height: 49px;
+  position: absolute;
+  text-align: left;
+  top: 380px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .i-am-a-software-el-design-stand-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 515px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 460px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .icon-awesome-github-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 34px;
+  left: 1427px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 35px;
+}
+.web-1920-1 .icon-awesome-linkedin-in-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 31px;
+  left: 1500px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 32px;
+}
+.web-1920-1 .image-1-C61RwL {
+  background-color: transparent;
+  height: 352px;
+  left: 784px;
+  object-fit: cover;
+  position: absolute;
+  top: 74px;
+  width: 352px;
+}
+.web-1920-1 .in-my-free-time-i-enjoy-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 509px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 857px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .increased-air-q-ther-conditions-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 499px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 2298px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .line-10-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 515px;
+  object-fit: cover;
+  position: absolute;
+  top: 1836px;
+  width: 1051px;
+}
+.web-1920-1 .line-11-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 494px;
+  object-fit: cover;
+  position: absolute;
+  top: 2166px;
+  width: 1051px;
+}
+.web-1920-1 .line-12-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 494px;
+  object-fit: cover;
+  position: absolute;
+  top: 1836px;
+  width: 1051px;
+}
+.web-1920-1 .line-13-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 494px;
+  object-fit: cover;
+  position: absolute;
+  top: 2542px;
+  width: 1051px;
+}
+.web-1920-1 .line-14-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 2968px;
+  width: 1920px;
+}
+.web-1920-1 .line-15-C61RwL {
+  background-color: transparent;
+  height: 46px;
+  left: 1406px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 5px;
+}
+.web-1920-1 .line-16-C61RwL {
+  background-color: transparent;
+  height: 46px;
+  left: 1478px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 5px;
+}
+.web-1920-1 .line-3-C61RwL {
+  background-color: transparent;
+  height: 46px;
+  left: 1234px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 5px;
+}
+.web-1920-1 .line-4-C61RwL {
+  background-color: transparent;
+  height: 46px;
+  left: 1298px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 5px;
+}
+.web-1920-1 .line-7-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 72px;
+  width: 1920px;
+}
+.web-1920-1 .line-8-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1076px;
+  width: 1920px;
+}
+.web-1920-1 .line-9-C61RwL {
+  background-color: transparent;
+  height: 5px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1290px;
+  width: 1920px;
+}
+.web-1920-1 .looking-for-exc-l-opportunities-VyzZeT {
+  background-color: transparent;
+  bottom: -2px;
+  height: 28px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  width: 333px;
+}
+.web-1920-1 .managed-the-emb-omputer-cluster-zUixHA {
+  background-color: transparent;
+  bottom: -2px;
+  height: 25px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 26px);
+}
+.web-1920-1 .participated-in-ng-competitions-zUixHA {
+  background-color: transparent;
+  bottom: calc(48.00% - 12px);
+  height: 25px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  width: 373px;
+}
+.web-1920-1 .path-1-C61RwL {
+  background-color: transparent;
+  height: 26px;
+  left: 642px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 15px;
+}
+.web-1920-1 .path-2-C61RwL {
+  background-color: transparent;
+  height: 3014px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 74px;
+  width: 1920px;
+}
+.web-1920-1 .previously-i-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 511px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 722px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .projects-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 494px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1384px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .projects-KOsP6k {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.web-1920-1 .pursuing-a-mast-ritish-columbia-VyzZeT {
+  background-color: transparent;
+  bottom: calc(48.33% - 14px);
+  height: 28px;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 14px);
+}
+.web-1920-1 .read-more-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 494px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 1783px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .read-more-QxM5SU {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 494px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 2867px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .read-more-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 494px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 2100px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .read-more-mzXdH9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 499px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 2458px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .rectangle-1-C61RwL {
+  background-color: #15202b;
+  cursor: pointer;
+  height: 117px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.web-1920-1 .rectangle-2-C61RwL {
+  background-color: #22303c;
+  border-radius: 21px;
+  cursor: pointer;
+  height: 58px;
+  left: 733px;
+  position: absolute;
+  top: 1183px;
+  width: 158px;
+}
+.web-1920-1 .rectangle-3-C61RwL {
+  background-color: #22303c;
+  border-radius: 21px;
+  cursor: pointer;
+  height: 57px;
+  left: 960px;
+  position: absolute;
+  top: 1183px;
+  width: 184px;
+}
+.web-1920-1 .rectangle-4-C61RwL {
+  background-color: #15202b;
+  height: 118px;
+  left: 0px;
+  position: absolute;
+  top: 2970px;
+  width: 1920px;
+}
+.web-1920-1 .studied-distrib-ritish-columbia-zUixHA {
+  background-color: transparent;
+  height: 25px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 12px);
+}
+.web-1920-1 .think-we-would-k-well-together-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 741px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 1124px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .through-the-cre-as-faster-debu-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 494px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 1530px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .tracking-the-spread-of-news-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 500px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 2617px;
+  white-space: nowrap;
+  width: auto;
+}
+.web-1920-1 .working-on-mult-e-summarization-iZjIT4 {
+  background-color: transparent;
+  height: 25px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 12px);
+}
+.web-1920-1 .x-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 705px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 691px;
+  white-space: nowrap;
+  width: auto;
+}
+@keyframes animate-enter-frames {
+
+from{opacity: 0;}
+to{opacity: 1;}
+}
+
