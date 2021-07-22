@@ -1,0 +1,24 @@
+Index: css/styleguide.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>:root {\n  --dove-gray: #707070;\n  --regent-gray: #8899a6;\n  --white: #ffffff;\n\n  --font-size-l: 27px;\n  --font-size-m: 25px;\n  --font-size-s: 21px;\n  --font-size-xl: 30px;\n  --font-size-xs: 20px;\n  --font-size-xxl: 49px;\n  --font-size-xxs: 17px;\n\n  --font-family-roboto: \"Roboto\", Helvetica;\n}\n.roboto-normal-white-17px {\n  color: var(--white);\n  font-family: var(--font-family-roboto);\n  font-size: var(--font-size-xxs);\n  font-style: normal;\n  font-weight: 400;\n}\n.roboto-normal-white-20px {\n  color: var(--white);\n  font-family: var(--font-family-roboto);\n  font-size: var(--font-size-xs);\n  font-style: normal;\n  font-weight: 400;\n}\n.roboto-normal-white-25px {\n  color: var(--white);\n  font-family: var(--font-family-roboto);\n  font-size: var(--font-size-m);\n  font-style: normal;\n  font-weight: 400;\n}\n.roboto-normal-white-30px {\n  color: var(--white);\n  font-family: var(--font-family-roboto);\n  font-size: var(--font-size-xl);\n  font-style: normal;\n  font-weight: 400;\n}\n.roboto-normal-regent-gray-27px {\n  color: var(--regent-gray);\n  font-family: var(--font-family-roboto);\n  font-size: var(--font-size-l);\n  font-style: normal;\n  font-weight: 400;\n}\n.border-1px-dove-gray {\n  border: 1px solid var(--dove-gray);\n}\n\n/* Firefox old*/\n@-moz-keyframes blink {\n  0% {\n    opacity:1;\n  }\n  50% {\n    opacity:0;\n  }\n  100% {\n    opacity:1;\n  }\n}\n\n@-webkit-keyframes blink {\n  0% {\n    opacity:1;\n  }\n  50% {\n    opacity:0;\n  }\n  100% {\n    opacity:1;\n  }\n}\n/* IE */\n@-ms-keyframes blink {\n  0% {\n    opacity:1;\n  }\n  50% {\n    opacity:0;\n  }\n  100% {\n    opacity:1;\n  }\n}\n/* Opera and prob css3 final iteration */\n@keyframes blink {\n  0% {\n    opacity:1;\n  }\n  50% {\n    opacity:0;\n  }\n  100% {\n    opacity:1;\n  }\n}\n.blink-image {\n  -moz-animation: blink normal 0.5s infinite ease-in-out; /* Firefox */\n  -webkit-animation: blink normal 0.5s infinite ease-in-out; /* Webkit */\n  -ms-animation: blink normal 0.5s infinite ease-in-out; /* IE */\n  animation: blink normal 0.5s infinite ease-in-out; /* Opera and prob css3 final iteration */\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/css/styleguide.css b/css/styleguide.css
+--- a/css/styleguide.css	(revision 99bcd1769c044369bdab5c872f4949a35c796a29)
++++ b/css/styleguide.css	(date 1623382808964)
+@@ -101,8 +101,8 @@
+   }
+ }
+ .blink-image {
+-  -moz-animation: blink normal 0.5s infinite ease-in-out; /* Firefox */
+-  -webkit-animation: blink normal 0.5s infinite ease-in-out; /* Webkit */
+-  -ms-animation: blink normal 0.5s infinite ease-in-out; /* IE */
+-  animation: blink normal 0.5s infinite ease-in-out; /* Opera and prob css3 final iteration */
++  -moz-animation: blink normal 1s infinite ease-in-out; /* Firefox */
++  -webkit-animation: blink normal 1s infinite ease-in-out; /* Webkit */
++  -ms-animation: blink normal 1s infinite ease-in-out; /* IE */
++  animation: blink normal 1s infinite ease-in-out; /* Opera and prob css3 final iteration */
+ }
+\ No newline at end of file
